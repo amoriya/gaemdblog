@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>It's just likes about...</title>
+    <link>http://blog.belokan.net</link>
+    <description>belokan's blog</description>
+    <atom:link href="http://blog.belokan.net/feeds" rel="self" type="application/rss+xml" />
+
+    {%for item in items %}
+    <item>
+        <title>{{item[0]}}</title>
+        <link>http://blog.belokan.net/{{item[1]}}</link>
+        <guid isPermaLink="true">http://blog.belokan.net/{{item[1]}}</guid>
+        <description>{{item[2]}}</description>
+        <pubDate>{{item[3]}}</pubDate>
+    </item>
+    {%endfor%}
+
+</channel>
+</rss>
