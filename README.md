@@ -4,6 +4,8 @@ GaeMdBlog is a blog using Markdown on the Google App Engine.
 
 GaeMdBlog = [Google App Engine](https://developers.google.com/appengine) + [Markdown](http://daringfireball.net/projects/markdown/) + [Bootstrap](http://getbootstrap.com)
 
+[See in action](http://blog.belokan.net)
+
 ## Customize your blog
 
  - app.yaml
