@@ -40,7 +40,7 @@ tags: Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae gravida est, vitae ultricies elit. Pellentesque et dolor venenatis, sollicitudin orci a, dapibus odio. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi neque orci, ultrices in mauris quis, placerat cursus enim. Vestibulum ut mi orci. Etiam rutrum dignissim feugiat. Praesent scelerisque tortor nec scelerisque consequat. Mauris nec tortor faucibus, gravida lacus id, vehicula libero.
 ```
 
-2. upload your applicaiton
+2. Upload your applicaiton
 
 ```
 appcfg.py update gaemdblog/
